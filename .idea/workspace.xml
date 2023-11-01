@@ -4,13 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ff39005-2215-4966-9152-59ec1543fba3" name="Changes" comment="" />
+    <list default="true" id="28f3c63c-4508-4066-8f89-a0c24574ffbd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task1/Primitives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task1/Wrappers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task2/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task2/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task2/Launch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task3/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task1.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2Xa2SLcJAb0hmLA2MX2k2VrliLp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
@@ -22,19 +43,60 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Lauch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2.Lauch" />
+      <module name="Add_Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2.Main" />
+      <module name="Add_Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Lauch" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4ff39005-2215-4966-9152-59ec1543fba3" name="Changes" comment="" />
-      <created>1698849812699</created>
+      <changelist id="28f3c63c-4508-4066-8f89-a0c24574ffbd" name="Changes" comment="" />
+      <created>1698852871092</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1698849812699</updated>
-      <workItem from="1698849812820" duration="14000" />
+      <updated>1698852871092</updated>
+      <workItem from="1698852873443" duration="91000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
