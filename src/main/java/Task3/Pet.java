@@ -1,4 +1,5 @@
 package Task3;
+
 // 3 дополнительное задание
 public class Pet {
     public static void main(String[] args) {
@@ -19,7 +20,7 @@ public class Pet {
         }
 
         public void speak() {
-            System.out.println("Моей кошке " + age + " лет");
+            System.out.println("Моей кошке " + age + " лет.");
         }
     }
 }
