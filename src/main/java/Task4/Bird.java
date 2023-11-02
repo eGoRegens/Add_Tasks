@@ -1,13 +1,17 @@
 package Task4;
 
 public class Bird {
-    public String typeAnimal3;
+    public String typeAnimalFly;
 
     public Bird(String typeAnimal) {
-        this.typeAnimal3 = typeAnimal;
+        typeAnimalFly = typeAnimal;
     }
 
     public void fly() {
-        System.out.println("Только " + this.typeAnimal3 + " умеет летать.");
+    }
+
+    public static void main(String[] args) {
+        Bird bird = new Bird("птица");
+        bird.fly();
     }
 }     //не знаю,что делать с этими классами,которые неимлементируются по заданию,пусть как заготовка будет.

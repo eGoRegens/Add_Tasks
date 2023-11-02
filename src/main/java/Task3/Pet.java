@@ -1,6 +1,5 @@
 package Task3;
 
-// 3 дополнительное задание
 public class Pet {
     public static void main(String[] args) {
         Cat cat1 = new Cat();

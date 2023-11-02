@@ -1,13 +1,17 @@
 package Task4;
 
 public class Fish {
-    public String typeAnimal2;
+    public String typeAnimalSweam;
 
     public Fish(String typeAnimal) {
-        this.typeAnimal2 = typeAnimal;
+        typeAnimalSweam = typeAnimal;
+    }
+
+    public static void main(String[] args) {
+        Fish fish = new Fish("рыба");
+        fish.sweam();
     }
 
     public void sweam() {
-        System.out.println("Только " + this.typeAnimal2 + " умеет плавать.");
     }
-}            //не знаю,что делать с этими классами,которые неимлементируются по заданию,пусть как заготовка будет.
+}

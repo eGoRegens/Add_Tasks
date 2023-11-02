@@ -1,14 +1,14 @@
 package Task4;
 
 public class Dog implements Runnable {
-    public String typeAnimal1;
+    public String typeAnimalRun;
 
     public Dog(String typeAnimal) {
-        this.typeAnimal1 = typeAnimal;
+        typeAnimalRun = typeAnimal;
     }
 
     @Override
     public void run() {
-        System.out.println("Только " + this.typeAnimal1 + " умеет бегать.");
+        System.out.println("Только " + typeAnimalRun + " умеет бегать.");
     }
 }
